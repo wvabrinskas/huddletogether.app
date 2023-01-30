@@ -61,6 +61,29 @@ section #title p {
   font-family: var(--seconary-font);
 }
 
+.main {
+  float: center;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+  align-items: center;
+  justify-content: center;
+  padding:5px;
+}
+
+#main_text {
+  padding-top: 2em;
+}
+
+#main_text h1 {
+  font-size: 2em;
+  color: var(--primary-text);
+  font-style: bold;
+  font-family: var(--seconary-font);
+  text-align: center;
+}
+
 .profile {
   border-radius: 50%;
   display: block;
