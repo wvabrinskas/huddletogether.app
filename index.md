@@ -11,7 +11,7 @@
 
 <div id=main>
   <div id=logo_stack>
-    <img class=icon src='media/icon.png'/>
+    <img class=icon src='media/Icon-512.png'/>
   </div>
   <div id=main_text>
     <h1>Coming soon...</h1>
