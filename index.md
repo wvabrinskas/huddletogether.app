@@ -13,7 +13,9 @@
   <div id=logo_stack>
     <img class=icon src='media/Icon-512.png'/>
   </div>
+    <div style=' padding-top: -100px;' id=logo_stack>
+      <img style='width: 150px;' src='media/app-store-badge.svg'/>
+  </div>
   <div id=main_text>
-    <h1>Coming soon...</h1>
   </div>
 </div>
