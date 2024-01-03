@@ -1,11 +1,14 @@
+---
+layout: base
+title: Huddle
+---
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <!-- Begin Jekyll SEO tag v2.7.1 -->
-  <title>Huddle | Introducing our new iOS app, “Huddle”! Huddle is a unique social networking app that focuses on
-    helping you connect with your loved ones in person and share personal posts with them. With Huddle, you can create a
-    private network of friends and family that is completely offline and secure.</title>
+  <title>Huddle</title>
   <meta name="generator" content="Jekyll v3.9.0" />
   <meta property="og:title" content="Huddle" />
   <meta property="og:locale" content="en_US" />
@@ -18,8 +21,6 @@
   <meta property="og:site_name" content="Huddle" />
   <meta name="twitter:card" content="summary" />
   <meta property="twitter:title" content="Huddle" />
-  <script type="application/ld+json">
-{"headline":"Huddle","url":"http://localhost:4000/","name":"Huddle","description":"Introducing our new iOS app, “Huddle”! Huddle is a unique social networking app that focuses on helping you connect with your loved ones in person and share personal posts with them. With Huddle, you can create a private network of friends and family that is completely offline and secure.","@type":"WebSite","@context":"https://schema.org"}</script>
   <!-- End Jekyll SEO tag -->
 
   <link rel="stylesheet" href="/assets/css/style.css?v=b6d3a8e9d67a6515e61cb0df006934383440b6cd">
@@ -42,27 +43,21 @@
   <meta name="msapplication-TileColor" content="#da532c" />
   <meta name="theme-color" content="#ffffff" />
 </head>
-
-  <div class="wrapper">
-    <div id="main">
-      <section>
-        <div id="title">
-          <div id="logo_stack">
-            <img class="icon" src="media/Icon-512.png" />
-          </div>
-          <h1>Huddle</h1>
-          <p>
-            Huddle is a unique social networking app that focuses on helping you
-            connect with your loved ones in person and share personal posts with them. With Huddle, you can create a
-            private network of friends and family that is completely offline and fully on device.
-          </p>
-          <p>Join the discord for access.</p>
-          <div id="logo_stack">
-            <a href="https://discord.gg/QgRCbQYnzk"><img src="media/discord.png" class="logo" width="50"></a>
-          </div>
-        </div>
-      </section>
+  <div id="title">
+    <div id="logo_stack">
+      <img class="icon" src="media/Icon-512.png" />
     </div>
-    <div id="footer_text">
+    <h1>Huddle</h1>
+    <p>
+      Huddle is a unique social networking app that focuses on helping you
+      connect with your loved ones in person and share personal posts with them. With Huddle, you can create a
+      private network of friends and family that is completely offline and fully on device.
+    </p>
+    <p>Join the discord for access.</p>
+    <div id="logo_stack">
+      <a href="https://discord.gg/QgRCbQYnzk"><img src="media/discord.png" class="logo"></a>
     </div>
   </div>
+<div id="footer_text">
+</div>
+

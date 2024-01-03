@@ -46,22 +46,33 @@ body {
   font-family: var(--seconary-font);
 }
 
-section #title h1 {
+#title {
+  text-align: center;
+  justify-content: center;
+}
+
+#main #title h1 {
+  justify-content: center;
   font-size: 7em;
   color: var(--primary-text);
   font-weight: bold;
-  padding: 0.4em;
+  padding-bottom: 0.2em;
   font-family: var(--primary-font);
+  filter: drop-shadow(0 0 0.45rem rgb(27, 27, 27, 0.2));
 }
 
-section #title p {
+#main #title p {
+  justify-content: center;
   font-size: 2em;
   color: var(--primary-text);
   font-style: bold;
   font-family: var(--seconary-font);
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 20px;
 }
 
-.main {
+#main {
   float: center;
   display: flex;
   margin-left: auto;
@@ -69,14 +80,16 @@ section #title p {
   padding-bottom: 50px;
   align-items: center;
   justify-content: center;
-  padding:5px;
+  padding: 16px;
+  min-width: 300px;
+  max-width: 1000px;
 }
 
-#footer_text {
+#main_text {
   padding-top: 2em;
 }
 
-#footer_text h1 {
+#main_text h1 {
   font-size: 2em;
   color: var(--primary-text);
   font-style: bold;
@@ -113,7 +126,8 @@ section #title p {
   padding-bottom: 50px;
   align-items: center;
   justify-content: center;
-  padding:16px;
+  padding:5px;
+  filter: drop-shadow(0 0 0.45rem rgb(27, 27, 27, 0.2));
 }
 
 .icon {
@@ -164,3 +178,14 @@ section #title p {
   height: 0%;
 }
 
+nav {
+  display: hidden;
+  height: 0%;
+  width: 0%;
+}
+/* 
+section #title h1 { 
+  visibility: hidden;
+  height: 0%;
+}
+ */
