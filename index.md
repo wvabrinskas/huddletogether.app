@@ -1,21 +1,74 @@
 <head>
-<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
-<link rel="apple-touch-icon" sizes="180x180" href="media/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="media/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="media/favicon-16x16.png">
-<link rel="manifest" href="media/site.webmanifest">
-<link rel="mask-icon" href="media/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
+  <title>Huddle | Introducing our new iOS app, “Huddle”! Huddle is a unique social networking app that focuses on
+    helping you connect with your loved ones in person and share personal posts with them. With Huddle, you can create a
+    private network of friends and family that is completely offline and secure.</title>
+  <meta name="generator" content="Jekyll v3.9.0" />
+  <meta property="og:title" content="Huddle" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="description"
+    content="Introducing our new iOS app, “Huddle”! Huddle is a unique social networking app that focuses on helping you connect with your loved ones in person and share personal posts with them. With Huddle, you can create a private network of friends and family that is completely offline and secure." />
+  <meta property="og:description"
+    content="Introducing our new iOS app, “Huddle”! Huddle is a unique social networking app that focuses on helping you connect with your loved ones in person and share personal posts with them. With Huddle, you can create a private network of friends and family that is completely offline and secure." />
+  <link rel="canonical" href="http://localhost:4000/" />
+  <meta property="og:url" content="http://localhost:4000/" />
+  <meta property="og:site_name" content="Huddle" />
+  <meta name="twitter:card" content="summary" />
+  <meta property="twitter:title" content="Huddle" />
+  <script type="application/ld+json">
+{"headline":"Huddle","url":"http://localhost:4000/","name":"Huddle","description":"Introducing our new iOS app, “Huddle”! Huddle is a unique social networking app that focuses on helping you connect with your loved ones in person and share personal posts with them. With Huddle, you can create a private network of friends and family that is completely offline and secure.","@type":"WebSite","@context":"https://schema.org"}</script>
+  <!-- End Jekyll SEO tag -->
+
+  <link rel="stylesheet" href="/assets/css/style.css?v=b6d3a8e9d67a6515e61cb0df006934383440b6cd">
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"
+    integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+  <script src="/assets/js/respond.js"></script>
+  <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/assets/css/ie.css">
+    <![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+  <meta name="msapplication-TileColor" content="#da532c" />
+  <meta name="theme-color" content="#ffffff" />
 </head>
 
-<div id=main>
-  <div id=logo_stack>
-    <img class=icon src='media/Icon-512.png'/>
+  <div class="wrapper">
+    <div id="main">
+      <section>
+        <div id="title">
+          <div id="logo_stack">
+            <img class="icon" src="media/Icon-512.png" />
+          </div>
+          <h1>Huddle</h1>
+          <p>
+            Huddle is a unique social networking app that focuses on helping you
+            connect with your loved ones in person and share personal posts with them. With Huddle, you can create a
+            private network of friends and family that is completely offline and fully on device.
+          </p>
+          <!-- <div id="logo_stack">
+            <a href="https://twitter.com/wvabrinskas"><img src="media/x-t.png" class="logo" width="50" /></a>
+          </div> -->
+          <p>Join the discord for access.</p>
+          <div id="logo_stack">
+            <a href="https://discord.gg/QgRCbQYnzk"><img src="media/discord.png" class="logo" width="50"></a>
+            <!-- <a href="https://testflight.apple.com/join/FRg2IPXf" target="_blank">
+              <img style="width: 300px;" src="media/Testflight-button.png" />
+            </a> -->
+          </div>
+        </div>
+      </section>
+    </div>
+    <div id="footer_text">
+    </div>
   </div>
-    <div style=' padding-top: -100px;' id=logo_stack>
-      <img style='width: 150px;' src='media/app-store-badge.svg'/>
-  </div>
-  <div id=main_text>
-  </div>
-</div>
