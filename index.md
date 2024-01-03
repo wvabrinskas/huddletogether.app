@@ -55,7 +55,7 @@ title: Huddle
     </p>
     <p>Join the discord for access.</p>
     <div id="logo_stack">
-      <a href="https://discord.gg/QgRCbQYnzk"><img src="media/discord.png" class="logo"></a>
+      <a href="https://discord.gg/AbcbpcNwtx"><img src="media/discord.png" class="logo"></a>
     </div>
   </div>
 <div id="footer_text">
