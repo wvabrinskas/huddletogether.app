@@ -16,6 +16,6 @@
     <div style=' padding-top: -100px;' id=logo_stack>
       <img style='width: 150px;' src='media/app-store-badge.svg'/>
   </div>
-  <div id=main_text>
+  <div id=footer_text>
   </div>
 </div>
