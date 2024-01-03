@@ -56,15 +56,9 @@
             connect with your loved ones in person and share personal posts with them. With Huddle, you can create a
             private network of friends and family that is completely offline and fully on device.
           </p>
-          <!-- <div id="logo_stack">
-            <a href="https://twitter.com/wvabrinskas"><img src="media/x-t.png" class="logo" width="50" /></a>
-          </div> -->
           <p>Join the discord for access.</p>
           <div id="logo_stack">
             <a href="https://discord.gg/QgRCbQYnzk"><img src="media/discord.png" class="logo" width="50"></a>
-            <!-- <a href="https://testflight.apple.com/join/FRg2IPXf" target="_blank">
-              <img style="width: 300px;" src="media/Testflight-button.png" />
-            </a> -->
           </div>
         </div>
       </section>
