@@ -48,6 +48,9 @@ title: Huddle
       <img class="icon" src="media/Icon-512.png" />
     </div>
     <h1>Huddle</h1>
+        <div id="logo_stack">
+    <a href="https://testflight.apple.com/join/FRg2IPXf"><img src="media/testflight.png" class="logo" style="padding-bottom: 30px;"></a>
+    </div>
     <p>
       Huddle is a unique social networking app that focuses on helping you
       connect with your loved ones in person and share personal posts with them. With Huddle, you can create a
@@ -55,7 +58,6 @@ title: Huddle
     </p>
     <p>Download on Test Flight and join the Discord!</p>
     <div id="logo_stack">
-      <a href="https://testflight.apple.com/join/FRg2IPXf"><img src="media/testflight.png" class="logo"></a>
       <a href="https://discord.gg/AbcbpcNwtx"><img src="media/discord.png" class="logo"></a>
     </div>
   </div>
